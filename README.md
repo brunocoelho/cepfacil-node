@@ -2,7 +2,7 @@
 
 Wrapper JavaScript/Node.js para o serviço cepfacil.com.br
 
-NOTE: It's not working yet, what you see below is what is **should** do not what it actually does.
+NOTA: essa biblioteca não está funcionando ainda. Esse documento no momento descreve somente como ela **deve** funcionar e não como ela de fato está funcionando.
 
 ## Instalação
 
