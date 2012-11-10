@@ -1,0 +1,14 @@
+{
+  "name": "cepfacil",
+  "description": "Wrapper JavaScript/Node.js para o serviço cepfacil.com.br",
+  "version": "0.0.1",
+  "author": "Rodrigo Alves Vieira <rodrigovieira1994@gmail.com>",
+  "keywords": ["api", "address", "zip_code", "localization"],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "jslint": "*"
+  },
+  "main": "./lib/cepfacil.js",
+  "repository": "git://github.com/rodrigoalvesvieira/cepfacil-node.git"
+}
