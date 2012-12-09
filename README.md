@@ -42,6 +42,10 @@ address.street = opts.street; //
 
 * Rodrigo Alves Vieira - rodrigovieira1994@gmail.com - http://www.rodrigoalvesvieira.com
 
+## Colaboradores
+
+* Bruno Coelho - bcs.cin@gmail.com
+
 ## TODO
 
 * Recuperar dados do web service em formato XML assim é possível parsear o corpo da resposta sem essa quantidade absurda de variáveis.
